@@ -35,3 +35,5 @@ Ultra	7	73
 
 - Modernist Journals Project,
 [http://www.modjourn.org/](http://www.modjourn.org/)
+
+## Reading list
