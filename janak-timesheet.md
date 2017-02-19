@@ -26,4 +26,4 @@ output: pdf_document
 
 ----------
   
-**_Approved by: Prof. Dennis Tennen_**
+**_Approved by: Prof. Dennis Tenen_**
