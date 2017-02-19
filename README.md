@@ -1,7 +1,13 @@
 ## Available Archives
 
-- Princeton's Blue Mountain Archive, Mets/Alto/Mas
+- Princeton's Blue Mountain Archive, 
+
+- Mets/Alto/Mas
 [https://github.com/pulibrary/BlueMountain](https://github.com/pulibrary/BlueMountain)
+
+-TEI Files of the Archive
+https://github.com/cwulfman/bluemountain-transcriptions
+
 
 title	issue count	untagged names
 cite??	147	265
