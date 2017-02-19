@@ -4,16 +4,16 @@
 [https://github.com/pulibrary/BlueMountain](https://github.com/pulibrary/BlueMountain)
 
 title	issue count	untagged names
-cité	147	265
-élan	10	81
+cite??	147	265
+e??lan	10	81
 Klingen	29	109
-Sturm-Bühne	7	14
+Sturm-B??hne	7	14
 Veshch	2	52
-Volné směry	61	159
+Volne?? sme??ry	61	159
 Broom	21	5
 Bruno's Weekly	73	385
 East & WestEast & West	12	20
-Entretiens politiques & littéraires	59	110
+Entretiens politiques & litte??raires	59	110
 Glebe	11	24
 New Numbers	4	4
 Nord-Sud	14	39
@@ -23,9 +23,9 @@ Zeit-Echo	42	198
 chronique musicale	66	95
 Dalibor	608	438
 S.I.M. revue musicale mensuelle	118	527
-Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler	701	330
+Niederrheinische Musik-Zeitung fu??r Kunstfreunde und Ku??nstler	701	330
 Revue d'histoire et de critique musicales	243	622
-Umělecký měsíčník	23	70
+Ume??lecky?? me??si??c??ni??k	23	70
 Proverbe	6	39
 Nowa sztuka	2	40
 Ultra	7	73
