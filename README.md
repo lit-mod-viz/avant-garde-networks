@@ -1,9 +1,9 @@
 ## Roadmap
 
 1. Data exploration (quick and dirty)
-  a. Bylines only
-   - run an approximate pass to determine co-affiliation (same author included in two or more journals)
-    - bylines are proxy for group (institution membership), run intitial descriptive report on size of community / partcipation (is it that few people write a lot, or many people contribute once in a while)
+a. Bylines only
+  - run an approximate pass to determine co-affiliation (same author included in two or more journals)
+  - bylines are proxy for group (institution membership), run intitial descriptive report on size of community / partcipation (is it that few people write a lot, or many people contribute once in a while)
     - quick network viz to see co-occurance on the level of ISSUE (maybe, but the network is sparse)
   b. Initial full text NLP pass
     - cheap out-of the box named entity extraction, dump into a file and confirm visually
